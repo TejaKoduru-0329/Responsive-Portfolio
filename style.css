@@ -340,6 +340,7 @@ header ul li a:hover {
     width: 100%; 
     height: 160px;
     object-fit: cover; 
+    object-position: top;
     display: block;
 }
 .project-badge {
@@ -517,6 +518,12 @@ header ul li a:hover {
     border-radius: 12px;
     box-shadow: 5px 5px 15px #c1c8d3, -5px -5px 15px #fff;
     max-width: 48%;
+}
+
+.github-stats .neo-card {
+    border: 2px solid transparent;
+    background: linear-gradient(#eaecee, #eaecee) padding-box,
+                linear-gradient(-45deg, #D000F7, #24BAE3) border-box;
 }
 
 /* ===== CONTACT ===== */
