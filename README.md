@@ -1,19 +1,63 @@
-# Responsive-Portfolio
+# 🌐 Lahari Teja Koduru - Portfolio
 
-A responsive portfolio  by using HTML and CSS
+Welcome to my personal portfolio website!
+This project showcases my skills, projects, and experience as a developer.
 
-## HTML 
-Use suitable tags&attributes on ur wish for a respective website
+---
 
-## CSS 
-Font src: 'https://fonts.google.com/?query=poppins'
+## 🚀 Live Demo
 
-Contact icon src:'https://fontawesome.com/icons'
+👉 https://lahari-teja-portfolio.vercel.app/
 
-Use 'keyframes' for text transition
-## Responsiveness
-Use 'media queries', which is used for responsiveness for your website on various devices.
+---
+
+## 👨‍💻 About Me
+
+I am a passionate Full Stack Developer with a strong interest in building real-world applications.
+I enjoy creating clean, responsive, and user-friendly web interfaces.
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+---
+
+## ✨ Features
+
+* Responsive design 📱
+* Modern UI/UX 🎨
+* Project showcase section 💼
+* Smooth navigation ⚡
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+index.html
+style.css
+images/
+certifications/
+```
+
+---
 
 
+## 📬 Contact
 
- 
+* 📧 Email: tejakoduru2002@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/lahariteja
+* 🐙 GitHub: https://github.com/TejaKoduru-0329
+
+---
+
+## ⭐ Support
+
+If you like this project, feel free to ⭐ the repository!
+
+---
